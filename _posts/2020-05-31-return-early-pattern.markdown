@@ -35,7 +35,7 @@ hiddenNotes: "learned early pattern from Jeff during code review"
     <section>
         <ul>
             <li>Performance is better (not that significant)</li>
-            <li>Pattern only works if return statements aren't scattered all over the place </li>
+            <li>Pattern only makes sense if return statements aren't scattered all over the place </li>
         </ul>
         <p>Source: I learned this during code review at work.</p>
     </section>
