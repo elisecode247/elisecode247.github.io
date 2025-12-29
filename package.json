@@ -1,0 +1,13 @@
+{
+  "name": "elisecode247.github.io",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
